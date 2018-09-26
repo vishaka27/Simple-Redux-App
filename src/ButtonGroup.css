@@ -1,0 +1,12 @@
+.button-group-container {
+    display: flex;
+    margin-top: 20px;
+}
+
+.button-group-container .button-item {
+    margin: 10px;
+    border: 1px solid;
+    padding: 10px;
+    border-radius: 15px;
+    background: lavender;
+}
